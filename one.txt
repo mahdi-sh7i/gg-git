@@ -8,3 +8,5 @@ line 7: for skach
 line 8:
 line 9:
 line 10:
+line 11: commit B
+line 12: commit B
