@@ -12,3 +12,4 @@ line 11: commit B
 line 12: commit B
 line 13: commit C
 line 14: commit C
+line 15: commit D merge
